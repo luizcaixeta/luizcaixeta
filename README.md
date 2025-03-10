@@ -19,6 +19,6 @@ I'm a Master's student in Physics at the Federal University of Santa Catarina, s
 - Technologies: Python, Scikit-learn, Matplotlib, and AI models.
 - Highlights: Implementation of a Support Vector Machine (SVM) model.
 
-📫 Contact Me
+##📫 Contact Me
 
 - LinkedIn: https://www.linkedin.com/in/luiz-caixeta/

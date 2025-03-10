@@ -1,24 +1,23 @@
-## Hello, I'm Luiz Caixeta!
+## Olá, sou Luiz Caixeta!
 
-I'm a Master's student in Physics at the Federal University of Santa Catarina, specializing in nonlinear dynamical systems, neuron models, and AI. Currently, I'm exploring Machine Learning applications in real-world Data Science scenarios and use my GitHub to showcase my personal projects.
+Sou estudante de Mestrado em Física na Universidade Federal de Santa Catarina, com especialização em sistemas dinâmicos não-lineares, modelos de neurônios e IA. Atualmente, estou explorando aplicações de Machine Learning em cenários reais de Data Science e utilizo meu GitHub para exibir meus projetos pessoais.
 
-## Main Projects
+## Principais Projetos
 
-📊 Airbnb Price Prediction in New York
-- Objective: Solve a linearization problem by estimating property prices based on detailed dataset characteristics and additional data.
-- Technologies: Python, Pandas, Scikit-learn, Matplotlib, and AI models.
-- Highlights: Advanced feature engineering, hyperparameter optimization, and exploratory data analysis (EDA)
+📊 Previsão de Preços do Airbnb em Nova York
+- Objetivo: Resolver um problema de linearização estimando os preços das propriedades com base nas características detalhadas do conjunto de dados e dados adicionais.
+- Tecnologias: Python, Pandas, Scikit-learn, Matplotlib e modelos de IA.
+- Destaques: Engenharia avançada de características, otimização de hiperparâmetros e análise exploratória de dados (EDA).
 
-❤️ Heart Disease Prediction
-- Objective: Solve a classification problem by predicting the risk of heart disease using patient clinical data.
-- Technologies: Python, Scikit-learn, Matplotlib, and AI models.
-- Highlights: End-to-end Machine Learning pipeline and comprehensive exploratory data analysis (EDA)
+❤️ Previsão de Doenças Cardíacas
+- Objetivo: Resolver um problema de classificação prevendo o risco de doenças cardíacas utilizando dados clínicos de pacientes.
+- Tecnologias: Python, Scikit-learn, Matplotlib e modelos de IA.
+- Destaques: Pipeline completo de Machine Learning e análise exploratória de dados (EDA) abrangente.
 
-🌳 Classification Model for Samples With and Without Collagen
-- Objective: Solve a classification problem using manually obtained results from laser-induced breakdown spectroscopy (LIBS) to classify samples with and without collagen.
-- Technologies: Python, Scikit-learn, Matplotlib, and AI models.
-- Highlights: Implementation of a Support Vector Machine (SVM) model.
+🌳 Modelo de Classificação para Amostras Com e Sem Colágeno
+- Objetivo: Resolver um problema de classificação utilizando resultados obtidos manualmente de espectroscopia por quebra induzida por laser (LIBS) para classificar amostras com e sem colágeno.
+- Tecnologias: Python, Scikit-learn, Matplotlib e modelos de IA.
+- Destaques: Implementação de um modelo de Máquina de Vetores de Suporte (SVM).
 
-## 📫 Contact Me
-
+## 📫 Meu contato
 - LinkedIn: https://www.linkedin.com/in/luiz-caixeta/

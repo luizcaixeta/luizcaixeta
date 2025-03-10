@@ -1,8 +1,8 @@
-Hello, I'm Luiz Caixeta!
+## Hello, I'm Luiz Caixeta!
 
 I'm a Master's student in Physics at the Federal University of Santa Catarina, specializing in nonlinear dynamical systems, neuron models, and AI. Currently, I'm exploring Machine Learning applications in real-world Data Science scenarios and use my GitHub to showcase my personal projects.
 
-Main Projects
+## Main Projects
 
 📊 Airbnb Price Prediction in New York
 - Objective: Solve a linearization problem by estimating property prices based on detailed dataset characteristics and additional data.

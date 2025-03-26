@@ -16,30 +16,35 @@ Sou estudante de Mestrado em Física na Universidade Federal de Santa Catarina, 
 + Tecnologias: Python, Pandas, Scikit-learn, Matplotlib e modelos de IA.
 + Destaques: Engenharia avançada de características, otimização de hiperparâmetros e análise exploratória de dados (EDA).
 
+  https://github.com/luizcaixeta/airbnb-pricing-new-york
+
 ❤️ Previsão de Doenças Cardíacas
 + Objetivo: Resolver um problema de classificação prevendo o risco de doenças cardíacas utilizando dados clínicos de pacientes.
 + Tecnologias: Python, Scikit-learn, Matplotlib e modelos de IA.
 + Destaques: Pipeline completo de Machine Learning e análise exploratória de dados (EDA) abrangente.
 
-🌳 Modelo de Classificação para Amostras Com e Sem Colágeno
-+ Objetivo: Resolver um problema de classificação utilizando resultados obtidos manualmente de espectroscopia por quebra induzida por laser (LIBS) para classificar amostras com e sem colágeno.
-+ Tecnologias: Python, Scikit-learn, Matplotlib e modelos de IA.
-+ Destaques: Implementação de um modelo de Máquina de Vetores de Suporte (SVM).
+  https://github.com/luizcaixeta/Modelo-para-previsao-de-doencas-cardiacas
 
 🖼️ Segmentação de Caracteres em Imagens
 + Objetivo: Desenvolver um programa para segmentar caracteres em uma imagem, preparando-a para reconhecimento óptico de caracteres (OCR).
 + Tecnologias: Python, OpenCV, técnicas de processamento de imagem.
 + Destaques: Uso de técnicas de pré-processamento de imagens, como binarização e detecção de contornos para isolar caracteres.
 
+  https://github.com/luizcaixeta/segmentador-de-caracteres
+
 🔢 Digit Recognizer
 + Objetivo: Implementar um modelo de reconhecimento de dígitos escritos à maõ utilizando o dataset MNIST.
 + Tecnologias: Python, TensorFlow/Keras, Redes Neurais Convolucionais (CNNs).
 + Destaques: Treinamento de uma CNN para classificação de dígitos com alta acurácia e visualização de resultados. Este projeto foi utilizado como estudo para visualização da ativação dos neurônios durante o processo de classificação da rede.
 
+  https://github.com/luizcaixeta/digit-recognizer
+
 🐱🐶 Classificação de Cães e Gatos
 + Objetivo: Desenvolver um modelo de deep learning para classificar imagens de cães e gatos.
 + Tecnologias: Python, TensorFlow/Keras, Redes Neurais Convolucionais (CNNs).
 + Destaques: Esse projeto foi utilizado como um estudo aprofundado de data augmentation, compreensão do processo de aprendizado em cada uma das etapas do modelo e também do funcionamento da operação de convolução.
+
+  https://github.com/luizcaixeta/classificacao-caes-gatos-estudo-CNN
   
 ## 📫 Meu contato
 - LinkedIn: https://www.linkedin.com/in/luiz-caixeta/

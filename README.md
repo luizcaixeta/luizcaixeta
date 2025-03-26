@@ -4,7 +4,7 @@ Sou estudante de Mestrado em Física na Universidade Federal de Santa Catarina, 
 
 ## Principais Projetos
 
-🎬 Web Scraping no site IMDb para criação de um banco de dados SQL (processo ETL)
+🎬 Web Scraping no site IMDb para criação de um banco de dados SQL (processo ETL) e estudo do Power BI
 + Objetivo: Realizar web scraping no site IMDb para obtenção de dados de séries e filmes, estruturando um banco de dados para estudo de ferramentas como o Power BI.
 + Tecnologias: Python, Selenium, BeautifulSoup, SQL e Power BI.
 + Destaques: Realização de um processo ETL completo.

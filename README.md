@@ -38,6 +38,8 @@ Formado em Física e mestrando na Universidade Federal de Santa Catarina, com es
 
   - Interface amigável para o usuário com retorno instantâneo da análise
 
+    https://github.com/luizcaixeta/Airbnb-price-checker
+
 📊 Previsão de Preços do Airbnb em Nova York
 + Objetivo: Resolver um problema de linearização estimando os preços das propriedades com base nas características detalhadas do conjunto de dados e dados adicionais.
 + Tecnologias: Python, Pandas, Scikit-learn, Matplotlib e modelos de IA.

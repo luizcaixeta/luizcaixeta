@@ -4,7 +4,39 @@ Formado em Física e mestrando na Universidade Federal de Santa Catarina, com es
 
 ## Principais Projetos
 
-📊 
+🧩 Projeto Full Stack – Previsão de Preços no Airbnb NYC
+
++ Back-end com Python e Flask
+
+- Criação de API REST para servir modelo de Machine Learning 
+
+- Pré-processamento de dados e cálculo de distâncias geográficas (geopy/geodesic)
+
+- Integração com modelo preditivo e lógica de avaliação (caro/barato)
+
++ Machine Learning
+
+- Treinamento de modelo com dados públicos do Airbnb
+
+- Utilização de features geográficas e estruturais dos imóveis
+
+- Análise de proximidade com pontos turísticos e transporte
+
++ Front-end com JavaScript + HTML/CSS
+
+- Desenvolvimento de uma extensão de navegador para Google Chrome
+
+- Web scraping direto dos anúncios do Airbnb usando a Chrome Extension API
+
+- Envio automático dos dados extraídos para a API e exibição da análise em tempo real
+
+- Integração completa (Full Stack)
+
+- Comunicação entre extensão (frontend) e API (backend)
+
+- Automação do fluxo de dados: da extração à visualização dos resultados
+
+- Interface amigável para o usuário com retorno instantâneo da análise
 
 📊 Previsão de Preços do Airbnb em Nova York
 + Objetivo: Resolver um problema de linearização estimando os preços das propriedades com base nas características detalhadas do conjunto de dados e dados adicionais.

@@ -8,35 +8,10 @@ Formado em Física e mestrando na Universidade Federal de Santa Catarina, com es
 
 1. Back-end com Python e Flask
 
-  - Criação de API REST para servir modelo de Machine Learning 
-
-  - Pré-processamento de dados e cálculo de distâncias geográficas (geopy/geodesic)
-
-  - Integração com modelo preditivo e lógica de avaliação (caro/barato)
-
-2. Machine Learning
-
-  - Treinamento de modelo com dados públicos do Airbnb
-
-  - Utilização de features geográficas e estruturais dos imóveis
-
-  - Análise de proximidade com pontos turísticos e transporte
-
-3. Front-end com JavaScript + HTML/CSS
-
-  - Desenvolvimento de uma extensão de navegador para Google Chrome
-
-  - Web scraping direto dos anúncios do Airbnb usando a Chrome Extension API
-
-  - Envio automático dos dados extraídos para a API e exibição da análise em tempo real
-
-  - Integração completa (Full Stack)
-
-  - Comunicação entre extensão (frontend) e API (backend)
-
-  - Automação do fluxo de dados: da extração à visualização dos resultados
-
-  - Interface amigável para o usuário com retorno instantâneo da análise
++ Back-end (Python + Flask): API REST com modelo de Machine Learning, pré-processamento de dados e cálculo de distâncias (geopy).
++ Machine Learning: Treinamento com dados públicos do Airbnb, uso de features geográficas/estruturais e proximidade de pontos turísticos.
++ Front-end (Chrome Extension): Web scraping dos anúncios, envio automático para API, análise em tempo real e interface amigável.
++ Integração Full Stack: Fluxo automatizado da extração à visualização, com comunicação direta entre extensão e API.
 
     https://github.com/luizcaixeta/Airbnb-price-checker
 
